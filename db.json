@@ -1,0 +1,84 @@
+{
+  "Mercadorias": [
+    {
+      "id": 1,
+      "nome": "RTX 3080",
+      "descricao": "As placas de vídeo GeForce RTX 3080 oferecem o desempenho dos sonhos de todo gamer com a tecnologia da Arquitetura NVIDIA Ampere.",
+      "Valor": 5500.0,
+      "categoria": 1
+    },
+    {
+      "id": 2,
+      "nome": "Rx 6900 XT",
+      "descricao": "A RX 6900 XT pode bater 2.250 MHz de velocidade máxima com o turbo, enquanto o clock base é listado em 1.825 MHz.",
+      "Valor": 8000.0,
+      "categoria": 1
+    },
+    {
+      "id": 3,
+      "nome": "Rx 580 8gb",
+      "descricao": "Unidades computacionais. 36. Frequência de base. 1257 MHz ; GPU Memory. Velocidade da memória (real). 8 Gbps.",
+      "Valor": 750.0,
+      "categoria": 1
+    },
+    {
+      "id": 4,
+      "nome": "Ryzen 9 5900x",
+      "descricao": "conta com 16 núcleos e 24 threads para alto desempenho em jogos para gamers e softwares de produtividade.",
+      "Valor": 4800.0,
+      "categoria": 2
+    },
+    {
+      "id": 5,
+      "nome": "i9 12900",
+      "descricao": "",
+      "Valor": 50000.0,
+      "categoria": 2
+    },
+    {
+      "id": 6,
+      "nome": "Xeon e5 2689",
+      "descricao": "Frequência turbo max. 3.80 GHz ; Frequência da Tecnologia Intel® Turbo Boost 2.0 ; Frequência baseada em processador. 3.10 GHz ; Cache. 25 MB Intel® Smart Cache.",
+      "Valor": 50.0,
+      "categoria": 2
+    },
+    {
+      "id": 7,
+      "nome": "Gtx 1060 6gb",
+      "descricao": "GDDR5X, 192Bit, A placa gráfica ZOTAC GeForce GTX 1060 está repleta de novas tecnologias de jogo inovadoras.",
+      "Valor": 890.0,
+      "categoria": 1
+    },
+    {
+      "id": 8,
+      "nome": "Ryzen 5 3600",
+      "descricao": "PCIe 4.0 x16 ; Tipo de memória. DDR4 ; Canais de memória. 2 ; Velocidade máxima da memória. Up to 3200MHz.",
+      "Valor": 1200.0,
+      "categoria": 2
+    },
+    {
+      "id": 9,
+      "nome": "Gtx 1050ti",
+      "descricao": "a Placa de Vídeo Asus NVIDIA GeForce GTX 1050 Ti OC é equipada com uma memória de 4GB DDR5.",
+      "Valor": 500.0,
+      "categoria": 1
+    },
+    {
+      "id": 10,
+      "nome": "Ryzen 5 1600",
+      "descricao": "Processador AMD Ryzen 5 1600 3.2GHz (3.6GHz Turbo), 6-Core 12-Thread, Cooler Wraith Spire, AM4",
+      "Valor": 300.0,
+      "categoria": 2
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Placas de Video"
+    },
+    {
+      "id": 2,
+      "nome": "Processadores"
+    }
+  ]
+}
